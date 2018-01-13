@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Project1Lemmert.cpp
+g:\cs 3100\2017\project1_lemmert\project1_lemmert\magicbag.h(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  g:\cs 3100\2017\project1_lemmert\project1_lemmert\magicbag.h(98): note: while compiling class template member function 'int MagicBag<int>::draw(void) throw()'
+  g:\cs 3100\2017\project1_lemmert\project1_lemmert\project1lemmert.cpp(26): note: see reference to function template instantiation 'int MagicBag<int>::draw(void) throw()' being compiled
+  g:\cs 3100\2017\project1_lemmert\project1_lemmert\project1lemmert.cpp(15): note: see reference to class template instantiation 'MagicBag<int>' being compiled
+g:\cs 3100\2017\project1_lemmert\project1_lemmert\magicbag.h(128): warning C4715: 'MagicBag<int>::draw': not all control paths return a value
+  Project1_Lemmert.vcxproj -> G:\CS 3100\2017\Project1_Lemmert\Debug\Project1_Lemmert.exe
+  Project1_Lemmert.vcxproj -> G:\CS 3100\2017\Project1_Lemmert\Debug\Project1_Lemmert.pdb (Partial PDB)
