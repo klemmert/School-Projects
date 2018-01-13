@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Project2.cpp
+  OrgTree.cpp
+  Generating Code...
+d:\cs 3100\2017\project2\project2\orgtree.cpp(274): warning C4715: 'OrgTree::fire': not all control paths return a value
+  Project2.vcxproj -> D:\CS 3100\2017\Project2\Debug\Project2.exe
+  Project2.vcxproj -> D:\CS 3100\2017\Project2\Debug\Project2.pdb (Partial PDB)
