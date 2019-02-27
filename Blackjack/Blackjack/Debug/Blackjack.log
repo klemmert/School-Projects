@@ -1,0 +1,7 @@
+﻿  Blackjack.cpp
+c:\users\kat\source\repos\blackjack\blackjack\blackjack.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\kat\source\repos\blackjack\blackjack\blackjack.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\kat\source\repos\blackjack\blackjack\blackjack.cpp(404): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kat\source\repos\blackjack\blackjack\blackjack.cpp(118): warning C4715: 'valueOfCard': not all control paths return a value
+c:\users\kat\source\repos\blackjack\blackjack\blackjack.cpp(153): warning C4715: 'compareScore': not all control paths return a value
+  Blackjack.vcxproj -> C:\Users\Kat\source\repos\Blackjack\Debug\Blackjack.exe
