@@ -1,0 +1,20 @@
+﻿  render.c
+f:\old classes\computer graphics\assignment3\assignment3\render.c(65): warning C4018: '<': signed/unsigned mismatch
+f:\old classes\computer graphics\assignment3\assignment3\render.c(102): warning C4013: 'drawObj' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment3\assignment3\render.c(110): warning C4013: 'drawBarScale' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment3\assignment3\render.c(111): warning C4013: 'drawSliderScale' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment3\assignment3\render.c(112): warning C4013: 'drawBar' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment3\assignment3\render.c(115): warning C4013: 'drawSlider1' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment3\assignment3\render.c(116): warning C4013: 'drawSlider2' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment3\assignment3\render.c(117): warning C4013: 'drawSlider3' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment3\assignment3\render.c(291): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+f:\old classes\computer graphics\assignment3\assignment3\render.c(292): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int,int)'
+f:\old classes\computer graphics\assignment3\assignment3\render.c(148): warning C4716: 'drawObj': must return a value
+f:\old classes\computer graphics\assignment3\assignment3\render.c(160): warning C4716: 'drawBarScale': must return a value
+f:\old classes\computer graphics\assignment3\assignment3\render.c(171): warning C4716: 'drawSliderScale': must return a value
+f:\old classes\computer graphics\assignment3\assignment3\render.c(198): warning C4716: 'drawSlider1': must return a value
+f:\old classes\computer graphics\assignment3\assignment3\render.c(183): warning C4716: 'drawBar': must return a value
+f:\old classes\computer graphics\assignment3\assignment3\render.c(208): warning C4716: 'drawSlider2': must return a value
+f:\old classes\computer graphics\assignment3\assignment3\render.c(218): warning C4716: 'drawSlider3': must return a value
+  LINK : F:\Old Classes\Computer Graphics\Assignment3\Debug\Assignment3.exe not found or not built by the last incremental link; performing full link
+  Assignment3.vcxproj -> F:\Old Classes\Computer Graphics\Assignment3\Debug\Assignment3.exe
