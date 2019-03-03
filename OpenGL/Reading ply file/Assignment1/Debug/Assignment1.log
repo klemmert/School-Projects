@@ -1,0 +1,11 @@
+﻿  render.c
+f:\old classes\computer graphics\assignment1\assignment1\render.c(82): warning C4101: 'obj_info': unreferenced local variable
+f:\old classes\computer graphics\assignment1\assignment1\render.c(79): warning C4101: 'num_comments': unreferenced local variable
+f:\old classes\computer graphics\assignment1\assignment1\render.c(70): warning C4101: 'k': unreferenced local variable
+f:\old classes\computer graphics\assignment1\assignment1\render.c(81): warning C4101: 'num_obj_info': unreferenced local variable
+f:\old classes\computer graphics\assignment1\assignment1\render.c(80): warning C4101: 'comments': unreferenced local variable
+f:\old classes\computer graphics\assignment1\assignment1\render.c(187): warning C4013: 'drawObj' undefined; assuming extern returning int
+f:\old classes\computer graphics\assignment1\assignment1\render.c(232): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+f:\old classes\computer graphics\assignment1\assignment1\render.c(233): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int,int)'
+f:\old classes\computer graphics\assignment1\assignment1\render.c(211): warning C4716: 'drawObj': must return a value
+  Assignment1.vcxproj -> F:\Old Classes\Computer Graphics\Assignment1\Debug\Assignment1.exe
